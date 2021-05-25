@@ -7,11 +7,24 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+<h1>JARVIS란?</h1>
+<p>JARVIS는 Join in Awesome Rise Via Interesting Software의 약자로서 프로그래밍 공부와 소프트웨어 프로젝트를 진행하는 동아리입니다. </p>
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+<h2>역대 회장</h2>
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+2021 권기범<br>
+2020 최광현<br>
+2019 박진상<br>
+2018 박수빈<br>
+2017 심재경<br>
+
+
+<h2>2021 운영진</h2>
+
+권기범 [https://qja1998.github.io/](https://qja1998.github.io/) <br>
+정윤형 [https://bro-o.github.io/](https://bro-o.github.io/) <br>
+오민진 [https://oh-minjin.github.io/](https://oh-minjin.github.io/) <br>
+
 
 [centrarium]: https://github.com/bencentra/centrarium
 [bencentra]: http://bencentra.com
