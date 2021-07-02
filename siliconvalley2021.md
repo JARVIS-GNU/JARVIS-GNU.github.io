@@ -19,7 +19,7 @@ main_nav: true
 신영재 [https://kkkkk111111.github.io/](https://kkkkk111111.github.io/)<br>
 신현진 [https://shin-hyunjin.github.io/](https://shin-hyunjin.github.io/)<br>
 
-<hr>
+---
 <h1>연도별 프로그램의 주요활동</h1>
 <h2>2019년</h2>
 <ul>
@@ -58,11 +58,11 @@ main_nav: true
   </li>
 </ul>
 
-<hr>
+---
 <img src="/assets/checklist.png" alt="체크리스트">
 <img src="/assets/program.png" alt="프로그램">
 <img src="/assets/program2.png" alt="프로그램2">
 
-<hr>
+---
 <h2>Slack</h2>
 [https://siliconvalley2021.slack.com/](https://siliconvalley2021.slack.com/)
