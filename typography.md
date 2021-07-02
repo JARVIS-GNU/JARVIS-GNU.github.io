@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SiliconValley2021
-permalink: /typography/
+permalink: /SiliconValley2021/
 main_nav: true
 ---
 
