@@ -22,7 +22,7 @@ main_nav: true
 최광현 [http://kwang-hyun.github.io/](http://kwang-hyun.github.io/)<br>
 이소연 [http://l-soyeon.github.io/](http://l-soyeon.github.io/)<br>
 
-<br>
+<h2>회장</h2>
 2019 박진상<br>
 2018 박수빈<br>
 2017 심재경<br>
