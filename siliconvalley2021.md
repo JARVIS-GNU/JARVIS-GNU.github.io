@@ -43,6 +43,7 @@ main_nav: true
       <li>음식메뉴 추천 앱</li>
     </ol>
   </li>
+  <li>Git Blog 활용 포트폴리오 관리</li>
   <li>LinkedIn 이력서 작성</li>
   <li>Glassdoor/Monster 관심있는 해외 인턴 공고 찾아보기</li>
 </ul>
@@ -56,7 +57,7 @@ main_nav: true
     </ol>
   </li>
 </ul>
-(프로그램의 혜택은 ESL 수업료, 프로젝트 재료비, 기타 외부 활동비 지원입니다.)
+
 <br>
 <img src="/assets/checklist.png" alt="체크리스트">
 <img src="/assets/program.png" alt="프로그램">
