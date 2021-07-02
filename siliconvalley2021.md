@@ -5,7 +5,6 @@ permalink: /SiliconValley2021/
 main_nav: true
 ---
 <h1>Git Blog</h1>
-<hr>
 <h2>2020</h2>
 김창희 [http://madplayer.github.io](http://madplayer.github.io)<br>
 김강산 [http://rlarkdtks312.github.io](http://rlarkdtks312.github.io)<br>
@@ -20,8 +19,8 @@ main_nav: true
 신영재 [https://kkkkk111111.github.io/](https://kkkkk111111.github.io/)<br>
 신현진 [https://shin-hyunjin.github.io/](https://shin-hyunjin.github.io/)<br>
 
-<h1>연도별 프로그램의 주요활동</h1>
 <hr>
+<h1>연도별 프로그램의 주요활동</h1>
 <h2>2019년</h2>
 <ul>
   <li>매주 ESL 수업</li>
@@ -64,6 +63,6 @@ main_nav: true
 <img src="/assets/program.png" alt="프로그램">
 <img src="/assets/program2.png" alt="프로그램2">
 
-<h2>Slack</h2>
 <hr>
+<h2>Slack</h2>
 [https://siliconvalley2021.slack.com/](https://siliconvalley2021.slack.com/)
